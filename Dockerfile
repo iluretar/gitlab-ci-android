@@ -4,7 +4,7 @@
 # https://hub.docker.com/r/showcheap/gitlab-ci-android/
 #
 
-FROM ubuntu 16.04
+FROM ubuntu:16.04
 MAINTAINER Sucipto <chip@pringstudio.com>
 
 ENV VERSION_SDK_TOOLS "25.2.2"
